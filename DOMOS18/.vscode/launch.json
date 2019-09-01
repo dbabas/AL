@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "domosnavbc",
+            "server": "https://domosnavbc.northeurope.cloudapp.azure.com",
+            "serverInstance": "Live",
+            "authentication": "UserPassword",
+            "startupObjectId": 22,
+            "port": 7069,
+            "schemaUpdateMode": "Recreate"
+        }
+    ]
+}

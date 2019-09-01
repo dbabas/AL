@@ -1,0 +1,19 @@
+{
+  "id": "257c44d1-87fe-444c-b234-99013fe9d52e",
+  "name": "DOMOS",
+  "publisher": "All4NAV",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {"from": 50000,"to": 50099},
+  "showMyCode": true
+}
