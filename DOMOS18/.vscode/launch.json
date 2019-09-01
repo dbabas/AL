@@ -10,7 +10,7 @@
             "authentication": "UserPassword",
             "startupObjectId": 22,
             "port": 7069,
-            "schemaUpdateMode": "Recreate"
+            "schemaUpdateMode": "Synchronize"
         }
     ]
 }
